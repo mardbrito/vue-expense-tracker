@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "toastification": "^0.1.4",
     "vue": "^3.4.21"
   },
   "devDependencies": {
